@@ -2,3 +2,12 @@ github.com/descope/go-sdk v0.0.0-20221130194358-0524e1ed4969 h1:jS5bfJ7S8Xt1Pmnw
 github.com/descope/go-sdk v0.0.0-20221130194358-0524e1ed4969/go.mod h1:mZgOajXEP+KMTR5hZSfLRXMxHYVmngWHrfHXi/wGAGM=
 github.com/justinas/alice v0.0.0-20160614134501-db61b0040b35 h1:abi5YM/2rEhrk2QiDOn11GtldUP6h9ffU6HBH3gb35o=
 github.com/justinas/alice v0.0.0-20160614134501-db61b0040b35/go.mod h1:oLH0CmIaxCGXD67VKGR5AacGXZSMznlmeqM8RzPrcY8=
+github.com/omercnet/go-untagged v0.0.3-0.20221125140523-6596438694dc h1:jpgx0TSzYVclO/BcjwNnS1IrQiCsW+pUSKaYYT0577U=
+github.com/omercnet/go-untagged v0.0.3-0.20221125140523-6596438694dc/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
+golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+golang.org/x/text v0.4.0 h1:BrVqGRd7+k1DiOgtnFvAkoQEWQvBc25ouMJM6429SFg=
+golang.org/x/text v0.4.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
+rsc.io/quote/v3 v3.1.0 h1:9JKUTTIUgS6kzR9mK1YuGKv6Nl+DijDNIc0ghT58FaY=
+rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
+rsc.io/sampler v1.3.0 h1:7uVkIFmeBqHfdjD+gZwtXXI+RODJ2Wc4O7MPEh/QiW4=
+rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=

@@ -10,7 +10,7 @@
   "packageRules": [
     {
       "groupName": "github",
-      "matchPackagePrefixes": ["github"]
+      "matchPackagePatterns": [".*"]
     }
   ]
 }
