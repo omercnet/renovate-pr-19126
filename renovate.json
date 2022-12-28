@@ -9,8 +9,11 @@
   "schedule": ["at any time"],
   "packageRules": [
     {
+      "digest": {
+        "enabled": true
+      },
       "groupName": "github",
-      "matchPackagePatterns": [".*"]
+      "matchPackagePrefixes": ["github.com/omercnet"]
     }
   ]
 }
