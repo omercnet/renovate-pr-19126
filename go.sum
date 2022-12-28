@@ -1,0 +1,4 @@
+github.com/descope/go-sdk v0.9.2-0.20221227140454-29c2d0112c54 h1:IFUHnf6Ngh2V2lTE8HoflVvxDT6TmYYAr5bmeDiUfrk=
+github.com/descope/go-sdk v0.9.2-0.20221227140454-29c2d0112c54/go.mod h1:c7Ppv9eKB6gVHkRtsW0knzx/dU5l71YppvZwUcO74JI=
+github.com/justinas/alice v1.2.1-0.20211012023419-b44cb3dde101 h1:jG+QV6EOw7vNAZJaVyLQIvBzQiQ/DWE2eVv9mJdUm5E=
+github.com/justinas/alice v1.2.1-0.20211012023419-b44cb3dde101/go.mod h1:fN5HRH/reO/zrUflLfTN43t3vXvKzvZIENsNEe7i7qA=

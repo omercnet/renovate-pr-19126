@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "prCreation": "immediate",
+  "dependencyDashboard": true,
+  "dependencyDashboardApproval": false,
+  "digest": {
+    "enabled": true
+  },
+  "schedule": ["at any time"],
+  "packageRules": [
+    {
+      "groupName": "github",
+      "matchPackagePatterns": ["github.com/.*"]
+    }
+  ]
+}
