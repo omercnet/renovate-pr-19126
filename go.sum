@@ -1,3 +1,4 @@
+github.com/omercnet/go-untagged v0.0.2/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
 github.com/omercnet/go-untagged v0.0.3-0.20221125140048-654761f34f7c h1:Bxb/OZVTcRkalBxP713P/ZKAkCGzSTXNeWGC63ujf84=
 github.com/omercnet/go-untagged v0.0.3-0.20221125140048-654761f34f7c/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
 github.com/omercnet/renovate-pr-19126 v0.0.0-20221228112612-7de2c382e8e1 h1:Ma7F/LVbjP7fmWPgFTABmK+Xyanjz9Sn5nhSAlhwh2g=
